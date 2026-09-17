@@ -7,21 +7,21 @@
   <!-- Primary SEO Meta Tags -->
   <title>Hemilton Bakery | Artisanal Sourdough, Viennoiserie & Bespoke Cakes</title>
   <meta name="title" content="Hemilton Bakery | Artisanal Sourdough, Viennoiserie & Bespoke Cakes">
-  <meta name="description" content="Welcome to Hemilton Bakery (hemiltonbakery.online). Handcrafted 48-hour fermented sourdough, 27-layer flaky French viennoiserie, bespoke celebration cakes and specialty coffee. Order fresh online or reserve a table.">
-  <meta name="keywords" content="hemilton bakery, hemiltonbakery.online, artisanal bakery, sourdough bread, french croissant, custom cakes, bespoke celebration cake, specialty coffee, patisserie">
+  <meta name="description" content="Welcome to Hemilton Bakery (hemiltonbakery-277e02aa86fd.herokuapp.com). Handcrafted 48-hour fermented sourdough, 27-layer flaky French viennoiserie, bespoke celebration cakes and specialty coffee. Order fresh online or reserve a table.">
+  <meta name="keywords" content="hemilton bakery, hemiltonbakery-277e02aa86fd.herokuapp.com, artisanal bakery, sourdough bread, french croissant, custom cakes, bespoke celebration cake, specialty coffee, patisserie">
   <meta name="author" content="Hemilton Bakery LLC">
-  <link rel="canonical" href="https://hemiltonbakery.online/">
+  <link rel="canonical" href="https://hemiltonbakery-277e02aa86fd.herokuapp.com/">
 
   <!-- Open Graph / Facebook / WhatsApp -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://hemiltonbakery.online/">
+  <meta property="og:url" content="https://hemiltonbakery-277e02aa86fd.herokuapp.com/">
   <meta property="og:title" content="Hemilton Bakery | Artisanal Breads & Handcrafted Patisserie">
   <meta property="og:description" content="Baked fresh every morning with 100% organic flour, Normandy butter, and 48-hour cold fermentation. Explore our menu & order online.">
   <meta property="og:image" content="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="https://hemiltonbakery.online/">
+  <meta name="twitter:url" content="https://hemiltonbakery-277e02aa86fd.herokuapp.com/">
   <meta name="twitter:title" content="Hemilton Bakery | Artisanal Breads & Handcrafted Patisserie">
   <meta name="twitter:description" content="Baked fresh every morning with organic grains & artisanal care. Order online or customize your bespoke celebration cake.">
   <meta name="twitter:image" content="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80">
@@ -55,13 +55,13 @@
     "@graph": [
       {
         "@type": ["Bakery", "LocalBusiness", "Organization"],
-        "@id": "https://hemiltonbakery.online/#bakery",
+        "@id": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#bakery",
         "name": "Hemilton Bakery",
         "legalName": "Hemilton Bakery LLC",
-        "url": "https://hemiltonbakery.online/",
+        "url": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/",
         "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80",
         "telephone": "+1-800-555-2253",
-        "email": "support@hemiltonbakery.online",
+        "email": "support@hemiltonbakery-277e02aa86fd.herokuapp.com",
         "priceRange": "$$",
         "currenciesAccepted": "USD",
         "paymentAccepted": "Cash, Credit Card, Debit Card, Apple Pay, Google Pay",
@@ -99,17 +99,17 @@
           }
         ],
         "servesCuisine": ["Bakery", "Artisan Bread", "French Pastries", "Custom Cakes", "Specialty Coffee"],
-        "hasMenu": "https://hemiltonbakery.online/#menu",
-        "privacyPolicy": "https://hemiltonbakery.online/#privacy-policy",
-        "termsOfService": "https://hemiltonbakery.online/#terms-of-service"
+        "hasMenu": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#menu",
+        "privacyPolicy": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#privacy-policy",
+        "termsOfService": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#terms-of-service"
       },
       {
         "@type": "WebSite",
-        "@id": "https://hemiltonbakery.online/#website",
-        "url": "https://hemiltonbakery.online/",
+        "@id": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#website",
+        "url": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/",
         "name": "Hemilton Bakery",
         "publisher": {
-          "@id": "https://hemiltonbakery.online/#bakery"
+          "@id": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#bakery"
         }
       },
       {
@@ -119,25 +119,25 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://hemiltonbakery.online/"
+            "item": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Artisanal Menu",
-            "item": "https://hemiltonbakery.online/#menu"
+            "item": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#menu"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bespoke Cake Studio",
-            "item": "https://hemiltonbakery.online/#cake-builder"
+            "item": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#cake-builder"
           },
           {
             "@type": "ListItem",
             "position": 4,
             "name": "Contact & Location",
-            "item": "https://hemiltonbakery.online/#contact"
+            "item": "https://hemiltonbakery-277e02aa86fd.herokuapp.com/#contact"
           }
         ]
       }
@@ -181,7 +181,7 @@
         </div>
         <div>
           <span class="brand-name">Hemilton</span>
-          <span class="brand-domain">hemiltonbakery.online</span>
+          <span class="brand-domain">hemiltonbakery-277e02aa86fd.herokuapp.com</span>
         </div>
       </a>
 
@@ -245,7 +245,7 @@
           </h1>
 
           <p class="hero-desc">
-            Experience the intoxicating aroma of slow cold-fermented sourdoughs, 27-layer French butter viennoiseries, and bespoke celebration cakes baked fresh daily at <strong>hemiltonbakery.online</strong>.
+            Experience the intoxicating aroma of slow cold-fermented sourdoughs, 27-layer French butter viennoiseries, and bespoke celebration cakes baked fresh daily at <strong>hemiltonbakery-277e02aa86fd.herokuapp.com</strong>.
           </p>
 
           <div class="hero-cta-group">
@@ -593,7 +593,7 @@
           <span class="section-subtitle">Born From Wild Starter in 2018</span>
           <h2 class="section-title">The Heart of Hemilton Bakery</h2>
           <p>
-            Hemilton Bakery began with a simple wild sourdough starter named <em>"Aura"</em>, nourished daily with spring water and stone-milled heirloom rye flour. What started as an obsession with the perfect crackling crust has evolved into a beloved community sanctuary for bread and pastry lovers at <strong>hemiltonbakery.online</strong>.
+            Hemilton Bakery began with a simple wild sourdough starter named <em>"Aura"</em>, nourished daily with spring water and stone-milled heirloom rye flour. What started as an obsession with the perfect crackling crust has evolved into a beloved community sanctuary for bread and pastry lovers at <strong>hemiltonbakery-277e02aa86fd.herokuapp.com</strong>.
           </p>
           <p>
             Every single morning at 4:30 AM, our bakers hand-shape each loaf, fold butter into silky croissant dough, and fire up our stone hearth ovens so our neighborhood wakes up to the warmest, most authentic bakes possible.
@@ -652,7 +652,7 @@
         <!-- Review 2 -->
         <div class="review-card">
           <div class="review-stars">★★★★★</div>
-          <p class="review-quote">"We ordered our wedding bespoke cake through hemiltonbakery.online and the Sicilian Pistachio Raspberry 2-tier left all our 90 guests raving. Absolutely stunning artistry!"</p>
+          <p class="review-quote">"We ordered our wedding bespoke cake through hemiltonbakery-277e02aa86fd.herokuapp.com and the Sicilian Pistachio Raspberry 2-tier left all our 90 guests raving. Absolutely stunning artistry!"</p>
           <div class="reviewer-meta">
             <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=120&q=80" alt="David & Marcus" class="reviewer-avatar" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80';">
             <div>
@@ -851,9 +851,9 @@
             <div>
               <div class="contact-info-title">Official Email Contacts</div>
               <div class="contact-info-detail">
-                General Support: <a href="mailto:support@hemiltonbakery.online" style="color: var(--color-accent); font-weight: 600;">support@hemiltonbakery.online</a><br>
-                Custom Cake Inquiries: <a href="mailto:orders@hemiltonbakery.online" style="color: var(--color-accent); font-weight: 600;">orders@hemiltonbakery.online</a><br>
-                Privacy & Legal: <a href="mailto:privacy@hemiltonbakery.online" style="color: var(--color-accent); font-weight: 600;">privacy@hemiltonbakery.online</a>
+                General Support: <a href="mailto:support@hemiltonbakery-277e02aa86fd.herokuapp.com" style="color: var(--color-accent); font-weight: 600;">support@hemiltonbakery-277e02aa86fd.herokuapp.com</a><br>
+                Custom Cake Inquiries: <a href="mailto:orders@hemiltonbakery-277e02aa86fd.herokuapp.com" style="color: var(--color-accent); font-weight: 600;">orders@hemiltonbakery-277e02aa86fd.herokuapp.com</a><br>
+                Privacy & Legal: <a href="mailto:privacy@hemiltonbakery-277e02aa86fd.herokuapp.com" style="color: var(--color-accent); font-weight: 600;">privacy@hemiltonbakery-277e02aa86fd.herokuapp.com</a>
               </div>
             </div>
           </div>
@@ -1018,7 +1018,7 @@
       <div class="policy-modal-body">
         <p><strong>Effective Date:</strong> January 1, 2026 | <strong>Last Updated:</strong> August 7, 2026</p>
         <p>
-          At Hemilton Bakery (operated by <strong>Hemilton Bakery LLC</strong>, located at 742 Artisanal Avenue, New York, NY 10001, USA, email: <a href="mailto:privacy@hemiltonbakery.online">privacy@hemiltonbakery.online</a>), your privacy and data security are our highest priority. This Privacy Policy describes how we collect, use, process, and protect your personal information when you visit <strong>https://hemiltonbakery.online/</strong> or place an order.
+          At Hemilton Bakery (operated by <strong>Hemilton Bakery LLC</strong>, located at 742 Artisanal Avenue, New York, NY 10001, USA, email: <a href="mailto:privacy@hemiltonbakery-277e02aa86fd.herokuapp.com">privacy@hemiltonbakery-277e02aa86fd.herokuapp.com</a>), your privacy and data security are our highest priority. This Privacy Policy describes how we collect, use, process, and protect your personal information when you visit <strong>https://hemiltonbakery-277e02aa86fd.herokuapp.com/</strong> or place an order.
         </p>
 
         <h4>1. Information We Collect</h4>
@@ -1054,7 +1054,7 @@
           <li><strong>Right to Restrict or Object to Processing:</strong> Opt out of marketing communications or targeted advertising.</li>
           <li><strong>CCPA "Do Not Sell or Share My Info":</strong> We do NOT sell or rent your personal information to third parties for monetary consideration.</li>
         </ul>
-        <p>To exercise any privacy rights, contact our Data Protection Officer at <a href="mailto:privacy@hemiltonbakery.online">privacy@hemiltonbakery.online</a>.</p>
+        <p>To exercise any privacy rights, contact our Data Protection Officer at <a href="mailto:privacy@hemiltonbakery-277e02aa86fd.herokuapp.com">privacy@hemiltonbakery-277e02aa86fd.herokuapp.com</a>.</p>
 
         <h4>5. Data Retention & Security</h4>
         <p>We implement end-to-end 256-bit SSL encryption. We retain customer transaction records for the minimum period necessary for tax and accounting compliance under New York State and US federal law.</p>
@@ -1081,7 +1081,7 @@
       <div class="policy-modal-body">
         <p><strong>Last Revised:</strong> August 7, 2026</p>
         <p>
-          Welcome to <strong>Hemilton Bakery</strong> (accessible at <a href="https://hemiltonbakery.online/">https://hemiltonbakery.online/</a>). By using our website, ordering bakery items, or booking reservations, you agree to be bound by these Terms of Service.
+          Welcome to <strong>Hemilton Bakery</strong> (accessible at <a href="https://hemiltonbakery-277e02aa86fd.herokuapp.com/">https://hemiltonbakery-277e02aa86fd.herokuapp.com/</a>). By using our website, ordering bakery items, or booking reservations, you agree to be bound by these Terms of Service.
         </p>
 
         <h4>1. Orders & Pricing Transparency</h4>
@@ -1101,7 +1101,7 @@
 
         <h4>4. Intellectual Property</h4>
         <p>
-          All trademarks, photography, logos, recipes, and text on hemiltonbakery.online are the exclusive property of Hemilton Bakery LLC and protected under US and international copyright law.
+          All trademarks, photography, logos, recipes, and text on hemiltonbakery-277e02aa86fd.herokuapp.com are the exclusive property of Hemilton Bakery LLC and protected under US and international copyright law.
         </p>
 
         <h4>5. Limitation of Liability & Governing Law</h4>
@@ -1148,12 +1148,12 @@
 
         <h4>3. Damaged or Unsatisfactory Items</h4>
         <p>
-          If your baked goods arrive damaged or do not meet our stringent quality standards, please take a photograph and contact us within 12 hours of receipt at <a href="mailto:orders@hemiltonbakery.online">orders@hemiltonbakery.online</a>. We will immediately provide a complimentary replacement or a full refund processed within 2-4 business days.
+          If your baked goods arrive damaged or do not meet our stringent quality standards, please take a photograph and contact us within 12 hours of receipt at <a href="mailto:orders@hemiltonbakery-277e02aa86fd.herokuapp.com">orders@hemiltonbakery-277e02aa86fd.herokuapp.com</a>. We will immediately provide a complimentary replacement or a full refund processed within 2-4 business days.
         </p>
       </div>
 
       <div class="policy-modal-footer">
-        <span style="font-size: 0.82rem; color: var(--color-text-muted);">Support: orders@hemiltonbakery.online</span>
+        <span style="font-size: 0.82rem; color: var(--color-text-muted);">Support: orders@hemiltonbakery-277e02aa86fd.herokuapp.com</span>
         <button class="btn btn-primary btn-sm" onclick="closeModal('refundModal')">Close Policy</button>
       </div>
     </div>
@@ -1295,7 +1295,7 @@
       <div class="policy-modal-body">
         <h4>1. Google Ads Policy Compliance</h4>
         <p>
-          Hemilton Bakery (<a href="https://hemiltonbakery.online/">hemiltonbakery.online</a>) adheres strictly to Google Ads Policies, including:
+          Hemilton Bakery (<a href="https://hemiltonbakery-277e02aa86fd.herokuapp.com/">hemiltonbakery-277e02aa86fd.herokuapp.com</a>) adheres strictly to Google Ads Policies, including:
         </p>
         <ul>
           <li><strong>Misrepresentation Policy:</strong> We provide authentic business identity, real physical address, verifiable phone number, and clear operational hours.</li>
@@ -1329,7 +1329,7 @@
 
       <div class="policy-modal-body">
         <p>
-          Customize your privacy preferences below. You can enable or disable different types of cookies and tracking technologies used on <strong>hemiltonbakery.online</strong>.
+          Customize your privacy preferences below. You can enable or disable different types of cookies and tracking technologies used on <strong>hemiltonbakery-277e02aa86fd.herokuapp.com</strong>.
         </p>
 
         <!-- Category 1: Strictly Necessary -->
@@ -1422,7 +1422,7 @@
             </div>
             <div>
               <span class="brand-name" style="color:#FFFFFF;">Hemilton</span>
-              <span class="brand-domain">hemiltonbakery.online</span>
+              <span class="brand-domain">hemiltonbakery-277e02aa86fd.herokuapp.com</span>
             </div>
           </div>
           <p>
@@ -1474,7 +1474,7 @@
           </form>
           <div style="margin-top: 16px; font-size: 0.82rem; color: #9C8C80;">
             📍 742 Artisanal Avenue, Baker District, NY 10001<br>
-            📞 +1 (800) 555-BAKE • support@hemiltonbakery.online
+            📞 +1 (800) 555-BAKE • support@hemiltonbakery-277e02aa86fd.herokuapp.com
           </div>
         </div>
       </div>
@@ -1501,7 +1501,7 @@
       <!-- Bottom Credits & Domain Ownership -->
       <div class="footer-bottom">
         <div>
-          &copy; 2026 <strong>Hemilton Bakery LLC</strong> (<a href="https://hemiltonbakery.online/" style="color: var(--color-accent);">hemiltonbakery.online</a>). All rights reserved.
+          &copy; 2026 <strong>Hemilton Bakery LLC</strong> (<a href="https://hemiltonbakery-277e02aa86fd.herokuapp.com/" style="color: var(--color-accent);">hemiltonbakery-277e02aa86fd.herokuapp.com</a>). All rights reserved.
         </div>
         <div>
           Handcrafted with pure passion • Natural Wild Levain • Organic Flours • Google Ads Policy Compliant
