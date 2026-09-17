@@ -1,6 +1,6 @@
 /**
  * HEMILTON BAKERY - JAVASCRIPT ENGINE
- * Domain: hemiltonbakery.online
+ * Domain: hemiltonbakery-277e02aa86fd.herokuapp.com
  */
 
 // --- 1. Product Catalog Data ---
@@ -666,7 +666,7 @@ function populateCheckoutReceipt() {
   const waBtn = document.getElementById('btnWhatsAppCheckout');
   if (waBtn) {
     const itemListText = cart.map(i => `• ${i.quantity}x ${i.name} ($${(i.price * i.quantity).toFixed(2)})`).join('%0A');
-    const msg = `Hello Hemilton Bakery! 🥖%0A%0AI would like to place an order:%0A${itemListText}%0A%0A*Total: $${grandTotal.toFixed(2)}*%0AOrder Ref: ${orderId}%0ADomain: hemiltonbakery.online`;
+    const msg = `Hello Hemilton Bakery! 🥖%0A%0AI would like to place an order:%0A${itemListText}%0A%0A*Total: $${grandTotal.toFixed(2)}*%0AOrder Ref: ${orderId}%0ADomain: hemiltonbakery-277e02aa86fd.herokuapp.com`;
     waBtn.href = `https://api.whatsapp.com/send?phone=18005552253&text=${msg}`;
   }
 }
